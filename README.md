@@ -1,4 +1,4 @@
 # Movie-Reservation-Service
 Movie Reservation Service Project
 
-# **>>[README](Movie-Reservation-Service/README.pdf)<<**
+# **>>[README](https://github.com/jeff-seyong/Movie-Reservation-Service/blob/master/README.pdf)<<**
